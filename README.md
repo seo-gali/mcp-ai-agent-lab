@@ -312,8 +312,8 @@ Usage 측정
 
 ## 프로젝트 문서
 
-* [개념 학습 문서](https://seoheejung.github.io/mcp-ai-agent-lab/)
-* [Phase 구현·검증 결과](https://seoheejung.github.io/mcp-ai-agent-lab/index-result.html)
+* [개념 학습 문서](https://seo-gali.github.io/mcp-ai-agent-lab/)
+* [Phase 구현·검증 결과](https://seo-gali.github.io/mcp-ai-agent-lab/index-result.html)
 
 ### 개념 학습 문서
 
